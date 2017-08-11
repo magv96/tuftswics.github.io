@@ -1,0 +1,337 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backgrou",
+				"background-position"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"Selected",
+				"selectedCentroid"
+			],
+			[
+				"Marker",
+				"MarkerGroup"
+			],
+			[
+				"Mark",
+				"MarkerGroup"
+			],
+			[
+				"handle",
+				"handleClick"
+			],
+			[
+				"Handle",
+				"handleCentroid"
+			],
+			[
+				"Select",
+				"selectedCentroid"
+			],
+			[
+				"selected",
+				"selectedCentroid"
+			],
+			[
+				"Tur",
+				"TurtleData"
+			],
+			[
+				"Lizar",
+				"LizardData"
+			],
+			[
+				"Frog",
+				"FrogData"
+			],
+			[
+				"Snake",
+				"SnakeData"
+			],
+			[
+				"Salama",
+				"SalamanderData"
+			],
+			[
+				"Map",
+				"MapBubble"
+			],
+			[
+				"Hello",
+				"HelloWorldApp"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/wdesombre/Desktop/PersonalProjects/Projects/WiCS/WiCSsite/officeHours.html",
+		"/Users/wdesombre/Desktop/PersonalProjects/Projects/i3c/North-Korea-Uncovered-18.xml",
+		"/Users/wdesombre/Downloads/map",
+		"/Users/wdesombre/Desktop/PersonalProjects/Projects/WiCS/WiCSsite/index.html",
+		"/Users/wdesombre/Desktop/PersonalProjects/Projects/WiCS/WiCSsite/img/WITLogo.png",
+		"/Users/wdesombre/Desktop/PersonalProjects/Projects/WiCS/WiCSsite/img/WITtitle.jpg",
+		"/Users/wdesombre/Desktop/PersonalProjects/Projects/WiCS/WiCSsite/css/styles.css",
+		"/Users/wdesombre/Desktop/PersonalProjects/Projects/stringparse.cpp",
+		"/Users/wdesombre/Downloads/95f6edfb66ef42d774a5a34581f19052.jpg",
+		"/private/var/folders/9d/jpxnmvd90hnfft7m13k0ts4c0000gn/T/5824eed4-2345-4cde-83f9-72b9577027ba/r/wics/public_html/style.css",
+		"/Users/wdesombre/Desktop/PersonalProjects/Projects/githubPage/style.css",
+		"/Users/wdesombre/Desktop/wicsback.jpeg",
+		"/Users/wdesombre/Desktop/PersonalProjects/JumboCode/Upstream/src/BarGraph.js",
+		"/Users/wdesombre/Desktop/PersonalProjects/JumboCode/Upstream/public/ny.json",
+		"/Users/wdesombre/Desktop/PersonalProjects/JumboCode/Upstream/dataQuery.js",
+		"/Users/wdesombre/Desktop/PersonalProjects/JumboCode/Upstream/centroids.json",
+		"/Users/wdesombre/Desktop/PersonalProjects/JumboCode/Upstream/src/App.css",
+		"/Users/wdesombre/Desktop/PersonalProjects/JumboCode/Upstream/package.json",
+		"/Users/wdesombre/Desktop/PersonalProjects/JumboCode/Upstream/src/Map.js",
+		"/Users/wdesombre/Desktop/PersonalProjects/JumboCode/Upstream/src/index.css",
+		"/Users/wdesombre/Desktop/PersonalProjects/JumboCode/Upstream/src/index.js",
+		"/Users/wdesombre/Desktop/PersonalProjects/Projects/Cyber9.12/README.md",
+		"/Users/wdesombre/Desktop/PersonalProjects/JumboCode/Upstream/src/VisBox.js",
+		"/Users/wdesombre/Desktop/PersonalProjects/JumboCode/Upstream/src/Checkbox.js",
+		"/Users/wdesombre/Desktop/PersonalProjects/JumboCode/Upstream/node_modules/react/package.json",
+		"/Users/wdesombre/Desktop/PersonalProjects/JumboCode/Upstream/src/Centroid.js",
+		"/Users/wdesombre/Desktop/PersonalProjects/JumboCode/Upstream/src/ny.json",
+		"/Users/wdesombre/Desktop/PersonalProjects/JumboCode/Upstream/.gitignore",
+		"/Users/wdesombre/Downloads/sage_hosa24_335.bib",
+		"/Users/wdesombre/Desktop/hello/comp170hw8.tex",
+		"/Users/wdesombre/Desktop/Screen Shot 2017-03-28 at 7.03.30 PM.png",
+		"/Users/wdesombre/Desktop/nyherp.svg",
+		"/Users/wdesombre/Desktop/PersonalProjects/JumboCode/Upstream/tutorial/package.json",
+		"/Users/wdesombre/Desktop/PersonalProjects/JumboCode/Upstream/tutorial/src/index.css",
+		"/Users/wdesombre/Desktop/PersonalProjects/JumboCode/Upstream/tutorial/src/App.css",
+		"/Users/wdesombre/Desktop/PersonalProjects/JumboCode/Upstream/tutorial/src/index.jsx",
+		"/Users/wdesombre/Desktop/PersonalProjects/JumboCode/Upstream/tutorial/src/App.js",
+		"/Users/wdesombre/Desktop/PersonalProjects/JumboCode/Upstream/tutorial/src/index.html",
+		"/Users/wdesombre/Desktop/PersonalProjects/JumboCode/Upstream/tutorial/src/App.jsx",
+		"/Users/wdesombre/Desktop/PersonalProjects/JumboCode/Upstream/tutorial/public/index.html",
+		"/Users/wdesombre/Desktop/PersonalProjects/JumboCode/Upstream/tutorial/Tutorial/index.android.js",
+		"/Users/wdesombre/Desktop/PersonalProjects/JumboCode/Upstream/tutorial/src/logo.svg",
+		"/Users/wdesombre/Desktop/PersonalProjects/JumboCode/Upstream/tutorial/src/App.test.js",
+		"/Users/wdesombre/Desktop/PersonalProjects/JumboCode/Upstream/tutorial/src/LineChart.jsx",
+		"/Users/wdesombre/Desktop/PersonalProjects/JumboCode/Upstream/tutorial/src/index.js",
+		"/Users/wdesombre/Desktop/PersonalProjects/JumboCode/Upstream/trying/package.json",
+		"/Users/wdesombre/Desktop/PersonalProjects/JumboCode/Upstream/webpack.config.js",
+		"/Users/wdesombre/Desktop/PersonalProjects/JumboCode/Upstream/tutorial/node_modules/webpack/package.json"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"peter",
+			"witlogo",
+			"schedule",
+			"a href",
+			"<a",
+			"<a>",
+			"wit",
+			"about",
+			"=\"",
+			"fa fa-hand",
+			"fa-fa",
+			"WIT",
+			"menu",
+			"join",
+			"Small",
+			"WIT",
+			"WITLogo",
+			"WITSmall",
+			".jpg",
+			"maddie",
+			"maggie",
+			"ul",
+			"about",
+			".col-sm-6",
+			"col-sm",
+			"content",
+			"img",
+			"quotes_container",
+			"quotes",
+			"slide",
+			"wicsback",
+			"wics",
+			"a9",
+			"divider",
+			"font",
+			"divider",
+			"properties",
+			"<<<",
+			"us",
+			"myData",
+			"]]},",
+			",",
+			"1000",
+			"top-line-chart",
+			"github.com/wde",
+			"github.com/wdesom",
+			"github",
+			"col",
+			">\n",
+			"webpack.config.js",
+			"webpack",
+			"react.create"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
