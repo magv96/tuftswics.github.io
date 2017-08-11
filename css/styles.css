@@ -708,6 +708,22 @@ Features Slider
 .features-slider .flickity-page-dots .dot {
     margin: 0 12px 0 0;
 }
+/* ==========================================================================
+Calendar #4e9ba3 #778899 #24374b
+========================================================================== */
+.simpleHeader{
+    background-color: #778899;
+    color: white;
+    padding: 40px;
+    padding-bottom: 10px;
+    margin-top: -20px;
+}
+
+.calendar{
+    background-color: white;
+    padding: 130px 0;
+    text-align: center;
+}
 
 /* ==========================================================================
 Features List
