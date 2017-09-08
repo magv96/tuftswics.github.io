@@ -622,6 +622,43 @@ header i {
 }
 
 /* ==========================================================================
+register
+========================================================================== */
+.register {
+    position: relative;
+    padding: 60px 0 60px 0;
+    min-height: 300px;
+    background: rgb(40, 70, 102) url('../img/BlankWITBack.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+.register h1 {
+    margin: 5px 0 10px 0;
+    font-weight: 300;
+    font-size: 30px;
+}
+.register h1 span {
+    display: inline-block;
+    color: #a1a9b0;
+}
+.register #home {
+    width: 100%;
+    height: 100%;
+}
+.register {
+    width: 100%;
+    height: 100%;
+}
+.register header i {
+    margin-left: 5px
+}
+
+.register #btn {
+    text-align: center;
+}
+
+/* ==========================================================================
 Video
 ========================================================================== */
 section.video i {
@@ -651,6 +688,89 @@ section.video a:hover i, section.video a:focus i {
     color: #73d0da
 }
 
+section.video .thumbnail {
+    height: 200px;
+    width: 200px;
+    
+}
+
+section.video img {
+    height: 100%;
+    width: 100%;
+}
+
+section.video .caption-header {
+    color: #3F6184;
+    font-size: 20px;
+}
+
+section.video figure {
+    /*text-align: center;*/
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* ==========================================================================
+spon
+========================================================================== */
+section.spon i {
+    margin-right: 10px;
+    color: #323a45;
+    vertical-align: middle;
+    font-size: 50px;
+    -webkit-transition: color 300ms ease-in-out;
+    transition: color 300ms ease-in-out;
+}
+section.spon h1 {
+    font-weight: 400;
+    font-size: 20px;
+}
+section.spon {
+    padding: 60px 0;
+    background-color: #f6f7f9;
+}
+section.spon a {
+    color: #323a45
+}
+section.spon a:hover, section.sponsor-sect a:focus {
+    color: #73d0da;
+    text-decoration: none;
+}
+section.spon a:hover i, section.sponsor-sect a:focus i {
+    color: #73d0da
+}
+
+section.spon #silver {
+    height: 120px;
+    width: auto;
+}
+
+section.spon #bronze {
+    height: 80px;
+    width: auto;
+}
+
+section.spon #silvertxt {
+    font-size: 18px;
+}
+
+section.spon #bronzetxt {
+    font-size: 18px;
+}
+
+section.spon #wrapper1{
+    padding: 40px;
+    text-align: center;
+}
+
+section.spon #wrapper2{
+    padding: 40px;
+    text-align: center;
+}
+
+section.spon .img-responsive {
+    padding: 10px;
+}
 /* ==========================================================================
 Custom Slider Controls (Flickity)
 ========================================================================== */
@@ -953,7 +1073,11 @@ Download Now
     margin: 0 0 15px 0;
     color: #fff;
     font-weight: 400;
-    font-size: 40px;
+    font-size: 20px;
+}
+
+.download a {
+    color: #24374b;
 }
 
 /* ==========================================================================
@@ -1106,3 +1230,33 @@ Waypoints
     -webkit-animation-delay: 1s;
     animation-delay: 1s;
 }
+
+
+/* emily's edits with images*/
+div.circle-avatar{
+    /* make it responsive */
+    max-width: 100%;
+    width:100%;
+    height:auto;
+    display:block;
+    /* div height to be the same as width*/
+    padding-top:100%;
+    
+    /* make it a cirkle */
+    border-radius:50%;
+    
+    /* Centering on image`s center*/
+    background-position-y: center;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    
+    /* it makes the clue thing, takes smaller dimention to fill div */
+    background-size: cover;
+
+    /* it is optional, for making this div centered in parent*/
+    margin: 0 auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    }
